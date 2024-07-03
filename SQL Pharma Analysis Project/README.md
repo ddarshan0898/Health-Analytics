@@ -2,12 +2,12 @@ Pharma Data Analysis
 
 Overview
 
-This project represents my work as an intern at Psyliq, where I had the opportunity to analyze a dataset related to the pharmaceutical industry. 
+This project represents my work as an intern at NextGen Invent Corporation, where I had the opportunity to analyze a dataset related to the pharmaceutical industry. 
 Using SQL, I conducted a comprehensive analysis and successfully completed the project.
 
 Project Details
 
-Internship: Psyliq
+Internship: NextGen Invent Corporation
 
 Project Type: Data Analysis
 
@@ -17,7 +17,7 @@ Key Highlights
 
 Conducted in-depth analysis of the pharmaceutical dataset.
 Utilized SQL to extract valuable insights from the data.
-Successfully completed the project, contributing to Psyliq's data analysis efforts.
+Successfully completed the project, contributing to NextGen Invent Corporation data analysis efforts.
 
 How to Use
 
@@ -25,4 +25,4 @@ This repository contains the SQL scripts and queries used for the data analysis.
 
 Acknowledgments
 
-I'd like to express my gratitude to Psyliq for providing me with this valuable opportunity to work on this project and gain experience in data analysis.
+I'd like to express my gratitude to NextGen Invent Corporation for providing me with this valuable opportunity to work on this project and gain experience in data analysis.
