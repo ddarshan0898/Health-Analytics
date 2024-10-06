@@ -1,5 +1,5 @@
 # Health Analytics
 
-This repository represents several projects completed in IE HST's MS in Business Analytics and Big Data program Health Analytics Course.
+This repository represents several projects completed in my Data Analyst program with Health Analytics Course.
 
 ## Lesedi: LOS Prediction Platform
