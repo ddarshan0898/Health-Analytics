@@ -122,6 +122,3 @@ Explore the fully functional report with native PowerBI interactive experience.
 
 ### Full access via PowerBI desktop
 If you have PowerBI desktop installed, download the `pharma-analysis.pbix` from the repo and open it using PowerBI desktop. There is no need to download the raw dataset; the `pbix` files contain the complete normalized data model, feel free to modify and experiment with it.   
-
-## License
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
