@@ -1,4 +1,4 @@
---SQL PHARMA DATA ASSESSMENT QUESTIONS - PSYLIQ
+--SQL PHARMA DATA ASSESSMENT QUESTIONS - NextGen Invent Corporation
 
 --1) Retrieve all columns for all records in the dataset.
 
